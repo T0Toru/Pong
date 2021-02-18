@@ -1,0 +1,1 @@
+Pong game following CS50's lecture, I do not own any of the sounds nor images used for the recreation of this project, credit goes to their respective owners. 
